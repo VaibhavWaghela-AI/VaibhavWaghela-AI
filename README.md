@@ -28,10 +28,10 @@
 ![Player stats: HP repos, MP commits, EXP pull requests](assets/player-hud.svg)
 
 <!-- live numbers, arcade-themed -->
-<img src="https://github-readme-stats.vercel.app/api?username=VaibhavWaghela-AI&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=07071a&title_color=4de2f0&text_color=e8f0ff&icon_color=ffd23f&ring_color=ff4fa3" alt="GitHub stats" height="165" />
-<img src="https://streak-stats.demolab.com?user=VaibhavWaghela-AI&hide_border=true&background=07071A&stroke=4DE2F0&ring=FF4FA3&fire=FFD23F&currStreakLabel=4DE2F0&sideLabels=E8F0FF&currStreakNum=E8F0FF&sideNums=FFD23F&dates=8B95BD" alt="Commit streak" height="165" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=VaibhavWaghela-AI&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=07071a&title_color=4de2f0&text_color=e8f0ff&icon_color=ffd23f&ring_color=ff4fa3" alt="GitHub stats" height="165" /> -->
+<img src="https://streak-stats.demolab.com?user=VaibhavWaghela-AI&hide_border=true&background=07071A&stroke=4DE2F0&ring=FF4FA3&fire=FFD23F&currStreakLabel=4DE2F0&sideLabels=E8F0FF&currStreakNum=E8F0FF&sideNums=FFD23F&dates=8B95BD" alt="Commit streak" height="165" /> -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavWaghela-AI&layout=compact&hide_border=true&langs_count=8&bg_color=07071a&title_color=ffd23f&text_color=e8f0ff" alt="Most used languages" height="150" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavWaghela-AI&layout=compact&hide_border=true&langs_count=8&bg_color=07071a&title_color=ffd23f&text_color=e8f0ff" alt="Most used languages" height="150" /> -->
 
 ![](assets/divider.svg)
 
@@ -74,12 +74,12 @@
 
 <div align="center">
 
-<a href="https://github.com/VaibhavWaghela-AI?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VaibhavWaghela-AI&repo=Gesture_controlled_AI&hide_border=true&bg_color=07071a&title_color=4de2f0&text_color=e8f0ff&icon_color=ffd23f" alt="Featured repo 1" height="120" />
-</a>
-<a href="https://github.com/VaibhavWaghela-AI?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VaibhavWaghela-AI&repo=Multi__Agent_Medical_Chatbot&hide_border=true&bg_color=07071a&title_color=4de2f0&text_color=e8f0ff&icon_color=ffd23f" alt="Featured repo 2" height="120" />
-</a>
+<!-- <a href="https://github.com/VaibhavWaghela-AI?tab=repositories">
+  <!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=VaibhavWaghela-AI&repo=Gesture_controlled_AI&hide_border=true&bg_color=07071a&title_color=4de2f0&text_color=e8f0ff&icon_color=ffd23f" alt="Featured repo 1" height="120" /> -->
+</a> -->
+<!-- <a href="https://github.com/VaibhavWaghela-AI?tab=repositories">
+  <!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=VaibhavWaghela-AI&repo=Multi__Agent_Medical_Chatbot&hide_border=true&bg_color=07071a&title_color=4de2f0&text_color=e8f0ff&icon_color=ffd23f" alt="Featured repo 2" height="120" /> -->
+</a> -->
 
 </div>
 
@@ -96,9 +96,9 @@
 <!-- ============ 6. GAME OVER / CONTACT ============ -->
 ![Thanks for playing - continue?](assets/footer.svg)
 
-<a href="mailto:REPLACE_WITH_EMAIL"><img src="https://img.shields.io/badge/EMAIL-ff4d5e?style=flat-square&labelColor=07071a&logo=gmail&logoColor=ff4d5e" alt="Email" /></a>
-<a href="https://linkedin.com/in/REPLACE_WITH_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-4d7bff?style=flat-square&labelColor=07071a&logo=linkedin&logoColor=4d7bff" alt="LinkedIn" /></a>
-<a href="https://twitter.com/REPLACE_WITH_X"><img src="https://img.shields.io/badge/X-e8f0ff?style=flat-square&labelColor=07071a&logo=x&logoColor=e8f0ff" alt="X" /></a>
-<a href="https://github.com/VaibhavWaghela-AI"><img src="https://img.shields.io/badge/GITHUB-47f06e?style=flat-square&labelColor=07071a&logo=github&logoColor=47f06e" alt="GitHub" /></a>
+<a href="mailto:REPLACE_WITH_EMAIL"><img src="https://img.shields.io/badge/EMAIL-ff4d5e?style=flat-square&labelColor=07071a&logo=gmail&logoColor=ff4d5e" alt="Email" /></a> -->
+<a href="https://linkedin.com/in/REPLACE_WITH_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-4d7bff?style=flat-square&labelColor=07071a&logo=linkedin&logoColor=4d7bff" alt="LinkedIn" /></a> -->
+<a href="https://twitter.com/REPLACE_WITH_X"><img src="https://img.shields.io/badge/X-e8f0ff?style=flat-square&labelColor=07071a&logo=x&logoColor=e8f0ff" alt="X" /></a> -->
+<a href="https://github.com/VaibhavWaghela-AI"><img src="https://img.shields.io/badge/GITHUB-47f06e?style=flat-square&labelColor=07071a&logo=github&logoColor=47f06e" alt="GitHub" /></a> -->
 
 </div>
