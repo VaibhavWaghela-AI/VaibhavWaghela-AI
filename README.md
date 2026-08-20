@@ -74,12 +74,14 @@
 
 <div align="center">
 
-<!-- <a href="https://github.com/VaibhavWaghela-AI?tab=repositories">
-  <!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=VaibhavWaghela-AI&repo=Gesture_controlled_AI&hide_border=true&bg_color=07071a&title_color=4de2f0&text_color=e8f0ff&icon_color=ffd23f" alt="Featured repo 1" height="120" /> -->
-</a> -->
-<!-- <a href="https://github.com/VaibhavWaghela-AI?tab=repositories">
-  <!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=VaibhavWaghela-AI&repo=Multi__Agent_Medical_Chatbot&hide_border=true&bg_color=07071a&title_color=4de2f0&text_color=e8f0ff&icon_color=ffd23f" alt="Featured repo 2" height="120" /> -->
-</a> -->
+<!-- 
+<a href="https://github.com/VaibhavWaghela-AI?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VaibhavWaghela-AI&repo=Gesture_controlled_AI&hide_border=true&bg_color=07071a&title_color=4de2f0&text_color=e8f0ff&icon_color=ffd23f" alt="Featured repo 1" height="120" />
+</a>
+<a href="https://github.com/VaibhavWaghela-AI?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VaibhavWaghela-AI&repo=Multi__Agent_Medical_Chatbot&hide_border=true&bg_color=07071a&title_color=4de2f0&text_color=e8f0ff&icon_color=ffd23f" alt="Featured repo 2" height="120" />
+</a>
+-->
 
 </div>
 
@@ -96,9 +98,9 @@
 <!-- ============ 6. GAME OVER / CONTACT ============ -->
 ![Thanks for playing - continue?](assets/footer.svg)
 
-<a href="mailto:REPLACE_WITH_EMAIL"><img src="https://img.shields.io/badge/EMAIL-ff4d5e?style=flat-square&labelColor=07071a&logo=gmail&logoColor=ff4d5e" alt="Email" /></a> -->
-<a href="https://linkedin.com/in/REPLACE_WITH_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-4d7bff?style=flat-square&labelColor=07071a&logo=linkedin&logoColor=4d7bff" alt="LinkedIn" /></a> -->
-<a href="https://twitter.com/REPLACE_WITH_X"><img src="https://img.shields.io/badge/X-e8f0ff?style=flat-square&labelColor=07071a&logo=x&logoColor=e8f0ff" alt="X" /></a> -->
-<a href="https://github.com/VaibhavWaghela-AI"><img src="https://img.shields.io/badge/GITHUB-47f06e?style=flat-square&labelColor=07071a&logo=github&logoColor=47f06e" alt="GitHub" /></a> -->
+<a href="mailto:REPLACE_WITH_EMAIL"><img src="https://img.shields.io/badge/EMAIL-ff4d5e?style=flat-square&labelColor=07071a&logo=gmail&logoColor=ff4d5e" alt="Email" /></a>
+<a href="https://linkedin.com/in/REPLACE_WITH_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-4d7bff?style=flat-square&labelColor=07071a&logo=linkedin&logoColor=4d7bff" alt="LinkedIn" /></a>
+<a href="https://twitter.com/REPLACE_WITH_X"><img src="https://img.shields.io/badge/X-e8f0ff?style=flat-square&labelColor=07071a&logo=x&logoColor=e8f0ff" alt="X" /></a>
+<a href="https://github.com/VaibhavWaghela-AI"><img src="https://img.shields.io/badge/GITHUB-47f06e?style=flat-square&labelColor=07071a&logo=github&logoColor=47f06e" alt="GitHub" /></a>
 
 </div>
