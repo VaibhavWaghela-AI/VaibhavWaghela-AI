@@ -27,12 +27,6 @@
 <!-- ============ 3. PLAYER HUD ============ -->
 ![Player stats: HP repos, MP commits, EXP pull requests](assets/player-hud.svg)
 
-<!-- live numbers, arcade-themed -->
-<img src="https://github-readme-stats.vercel.app/api?username=VaibhavWaghela-AI&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=07071a&title_color=4de2f0&text_color=e8f0ff&icon_color=ffd23f&ring_color=ff4fa3" alt="GitHub stats" height="165" />
-<img src="https://streak-stats.demolab.com?user=VaibhavWaghela-AI&hide_border=true&background=07071A&stroke=4DE2F0&ring=FF4FA3&fire=FFD23F&currStreakLabel=4DE2F0&sideLabels=E8F0FF&currStreakNum=E8F0FF&sideNums=FFD23F&dates=8B95BD" alt="Commit streak" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavWaghela-AI&layout=compact&hide_border=true&langs_count=8&bg_color=07071a&title_color=ffd23f&text_color=e8f0ff" alt="Most used languages" height="150" />
-
 ![](assets/divider.svg)
 
 <!-- ============ 4. EXPLORED SECTORS (CONTRIBUTIONS) ============ -->
@@ -69,23 +63,6 @@
 </div>
 
 ## `>` SIDE QUESTS &nbsp;<sub>(featured builds)</sub>
-
-<div align="center">
-
-<a href="https://github.com/VaibhavWaghela-AI/Gesture_controlled_AI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VaibhavWaghela-AI&repo=Gesture_controlled_AI&hide_border=true&bg_color=07071a&title_color=4de2f0&text_color=e8f0ff&icon_color=ffd23f" alt="Featured repo 1" height="120" />
-</a>
-<a href="https://github.com/VaibhavWaghela-AI/Multi__Agent_Medical_Chatbot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VaibhavWaghela-AI&repo=Multi__Agent_Medical_Chatbot&hide_border=true&bg_color=07071a&title_color=4de2f0&text_color=e8f0ff&icon_color=ffd23f" alt="Featured repo 2" height="120" />
-</a>
-<a href="https://github.com/VaibhavWaghela-AI/PolyForge">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VaibhavWaghela-AI&repo=PolyForge&hide_border=true&bg_color=07071a&title_color=4de2f0&text_color=e8f0ff&icon_color=ffd23f" alt="Featured repo 3" height="120" />
-</a>
-<a href="https://github.com/VaibhavWaghela-AI/Aura--MCP-driven-multi-agent-workspace-daemon">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VaibhavWaghela-AI&repo=Aura--MCP-driven-multi-agent-workspace-daemon&hide_border=true&bg_color=07071a&title_color=4de2f0&text_color=e8f0ff&icon_color=ffd23f" alt="Featured repo 4" height="120" />
-</a>
-
-</div>
 
 | SLOT | QUEST | LOOT DROPPED |
 | :--: | :---- | :----------- |
