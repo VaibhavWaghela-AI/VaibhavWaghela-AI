@@ -27,6 +27,8 @@
 <!-- ============ 3. PLAYER HUD ============ -->
 ![Player stats: HP repos, MP commits, EXP pull requests](assets/player-hud.svg)
 
+![Sector Scan: Streak and System Tech Matrix](assets/tech-radar.svg)
+
 ![](assets/divider.svg)
 
 <!-- ============ 4. EXPLORED SECTORS (CONTRIBUTIONS) ============ -->
@@ -64,11 +66,30 @@
 
 ## `>` SIDE QUESTS &nbsp;<sub>(featured builds)</sub>
 
+<div align="center">
+
+<a href="https://github.com/VaibhavWaghela-AI/PolyForge">
+  <img src="assets/card-polyforge.svg" width="48%" alt="PolyForge - LLMOps & Fine-Tuning" />
+</a>
+<a href="https://github.com/VaibhavWaghela-AI/Aura--MCP-driven-multi-agent-workspace-daemon">
+  <img src="assets/card-auraos.svg" width="48%" alt="AuraOS - Autonomous Agent Daemon" />
+</a>
+<br/>
+<a href="https://github.com/VaibhavWaghela-AI/Gesture_controlled_AI">
+  <img src="assets/card-gestura.svg" width="48%" alt="Gestura - Edge-AI & Embedded IoT" />
+</a>
+<a href="https://github.com/VaibhavWaghela-AI/Multi__Agent_Medical_Chatbot">
+  <img src="assets/card-medibot.svg" width="48%" alt="MediBot - Multi-Agent Clinical AI" />
+</a>
+
+</div>
+
 | SLOT | QUEST | LOOT DROPPED |
 | :--: | :---- | :----------- |
 | `01` | [PolyForge — LLM Fine-Tuning & MLOps Pipeline](https://github.com/VaibhavWaghela-AI/PolyForge) | PyTorch, QLoRA, Docker, Prometheus |
 | `02` | [AuraOS — Multi-Agent MCP Workspace Daemon](https://github.com/VaibhavWaghela-AI/Aura--MCP-driven-multi-agent-workspace-daemon) | LangChain, LangGraph, MCP |
 | `03` | [Gestura — ESP32 Edge-AI Gesture Control](https://github.com/VaibhavWaghela-AI/Gesture_controlled_AI) | C++, TinyML, MQTT |
+| `04` | [MediBot — Multi-Agent Clinical AI](https://github.com/VaibhavWaghela-AI/Multi__Agent_Medical_Chatbot) | LangChain, FAISS Vector DB, FastAPI |
 
 <div align="center">
 
