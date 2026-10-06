@@ -62,12 +62,6 @@
 
 ![](assets/divider.svg)
 
-</div>
-
-## `>` SIDE QUESTS &nbsp;<sub>(featured builds)</sub>
-
-<div align="center">
-
 <a href="https://github.com/VaibhavWaghela-AI/PolyForge">
   <img src="assets/card-polyforge.svg" width="48%" alt="PolyForge - LLMOps & Fine-Tuning" />
 </a>
@@ -81,17 +75,6 @@
 <a href="https://github.com/VaibhavWaghela-AI/Multi__Agent_Medical_Chatbot">
   <img src="assets/card-medibot.svg" width="48%" alt="MediBot - Multi-Agent Clinical AI" />
 </a>
-
-</div>
-
-| SLOT | QUEST | LOOT DROPPED |
-| :--: | :---- | :----------- |
-| `01` | [PolyForge — LLM Fine-Tuning & MLOps Pipeline](https://github.com/VaibhavWaghela-AI/PolyForge) | PyTorch, QLoRA, Docker, Prometheus |
-| `02` | [AuraOS — Multi-Agent MCP Workspace Daemon](https://github.com/VaibhavWaghela-AI/Aura--MCP-driven-multi-agent-workspace-daemon) | LangChain, LangGraph, MCP |
-| `03` | [Gestura — ESP32 Edge-AI Gesture Control](https://github.com/VaibhavWaghela-AI/Gesture_controlled_AI) | C++, TinyML, MQTT |
-| `04` | [MediBot — Multi-Agent Clinical AI](https://github.com/VaibhavWaghela-AI/Multi__Agent_Medical_Chatbot) | LangChain, FAISS Vector DB, FastAPI |
-
-<div align="center">
 
 ![](assets/divider.svg)
 
